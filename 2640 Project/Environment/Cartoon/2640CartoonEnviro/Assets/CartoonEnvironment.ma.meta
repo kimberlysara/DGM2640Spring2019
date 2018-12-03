@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 6643350ffc7230b40bb40370ce9c64f9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: birchDead1Main
+    100002: birchDead1MeshGroup
+    100004: bottom
+    100006: bushes1MeshGroup
+    100008: //RootNode
+    100010: grassClump18Main
+    100012: grassClump18MeshGroup
+    100014: grassClump1MeshGroup4
+    100016: grassClump21Main
+    100018: grassClump24Main
+    100020: group
+    100022: group1
+    100024: keyakiPark1MeshGroup
+    100026: pasted__pCube6
+    100028: pCube1
+    100030: pCube2
+    100032: pCube5
+    100034: treeLeafy1Main
+    100036: treeLeafy2Main
+    100038: treeLeafy3MeshGroup
+    100040: treeLeafy4MeshGroup
+    100042: treeLeafy5MeshGroup
+    400000: birchDead1Main
+    400002: birchDead1MeshGroup
+    400004: bottom
+    400006: bushes1MeshGroup
+    400008: //RootNode
+    400010: grassClump18Main
+    400012: grassClump18MeshGroup
+    400014: grassClump1MeshGroup4
+    400016: grassClump21Main
+    400018: grassClump24Main
+    400020: group
+    400022: group1
+    400024: keyakiPark1MeshGroup
+    400026: pasted__pCube6
+    400028: pCube1
+    400030: pCube2
+    400032: pCube5
+    400034: treeLeafy1Main
+    400036: treeLeafy2Main
+    400038: treeLeafy3MeshGroup
+    400040: treeLeafy4MeshGroup
+    400042: treeLeafy5MeshGroup
+    2000000: bottom
+    2100000: Rocks
+    2100002: lambert1
+    2100004: Branch
+    2100006: treeLeafy1Shader
+    2100008: treeLeafy1LeafShader
+    2100010: treeLeafy2Shader
+    2100012: treeLeafy2LeafShader
+    2100014: grassClump18Shader
+    2100016: grassClump24Shader
+    2100018: grassClump25Shader
+    2100020: grassClump26Shader
+    2100022: grassClump22Shader
+    2100024: grassClump23Shader
+    2100026: grassClump21Shader
+    2100028: grassClump19Shader
+    2100030: grassClump20Shader
+    2300000: birchDead1Main
+    2300002: grassClump18Main
+    2300004: grassClump21Main
+    2300006: grassClump24Main
+    2300008: pasted__pCube6
+    2300010: pCube1
+    2300012: pCube2
+    2300014: pCube5
+    2300016: treeLeafy1Main
+    2300018: treeLeafy2Main
+    3300000: birchDead1Main
+    3300002: grassClump18Main
+    3300004: grassClump21Main
+    3300006: grassClump24Main
+    3300008: pasted__pCube6
+    3300010: pCube1
+    3300012: pCube2
+    3300014: pCube5
+    3300016: treeLeafy1Main
+    3300018: treeLeafy2Main
+    4300000: pCube1
+    4300002: pCube2
+    4300004: pCube5
+    4300006: pasted__pCube6
+    4300008: birchDead1Main
+    4300010: treeLeafy1Main
+    4300012: treeLeafy2Main
+    4300014: grassClump18Main
+    4300016: grassClump24Main
+    4300018: grassClump21Main
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
